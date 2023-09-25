@@ -1,0 +1,14 @@
+:root{
+  --info-background-color: #252F3D; 
+  --white: #FFFFFF;
+  --default-font: 'Manrope', sans-serif;
+  --text-black: #000;
+  --text-gray: #4D5254;
+  --color-primary: #2C7EF8;
+  --bg-gray: #FAFAFA;
+  --color-green: #5BB59A;
+  --color-secondary: #EDF3FD;
+  --color-green-dark: #59AE43;
+  --color-gray-light: #CFCFCF;
+  --color-red: #F82C2C;
+}

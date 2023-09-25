@@ -1,0 +1,10 @@
+@import "./src/css/reset.css";
+@import "./src/css/header/Header.css";
+@import "./src/css/variables.css";
+@import "./src/css/main/Main.css";
+
+.container{
+  width: 1245px;
+  margin: 0 auto;
+  font-family: var(--default-font);
+}
